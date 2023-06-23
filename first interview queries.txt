@@ -1,0 +1,31 @@
+You12:04 PM
+a =[ 1,2,3,4]
+You12:09 PM
+a = open with=("c\python_project\\text1.txt","r")
+a.open()
+print(a)
+a = open with=("c\python_project\\text1.txt","r")
+a.append()
+print(a)
+Ankita Sharma12:18 PM
+list = [ "13", "16", "1", "5" , "8"]
+You12:19 PM
+list.sort()
+You12:26 PM
+rm -r f1,f2
+You12:28 PM
+select new rank()
+You12:30 PM
+select rank new(select salary from table_name,order by salary ) where rank = 3
+Ankita Sharma12:32 PM
+1,5,5,6,2,3,65
+You12:36 PM
+select colnames from table name order by columname having count(*)>1;
+You12:40 PM
+select managename from table name where man_id = "10"
+You12:42 PM
+select employy from table name where manager _id = "10"
+You12:46 PM
+delete  Id from table_name where name like(a,K);
+del f1 | awk(a,k)
+Mayank - Support Engg - R1

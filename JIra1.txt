@@ -1,0 +1,14 @@
+Confermation Email
+
+Hi Alex
+Please find below status Report EDCM-11 for EMPLOYEE_CLOUD_MIGRATION on 25th November 2022
+Exucutive Summary
+Status Green.Target.33.33% Passed.33.33%
+Please find below execution status as of 22/11/2022
+Today overall one test case was executed and passed
+
+Test Execution Status
+([EDCM-23] Employee_Data_Cloud_Migration_Test_Execution_1.Jira(atlassian net)) Link
+
+
+And  Attached ScreenShot	

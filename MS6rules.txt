@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------------------------------------------------
+Ms 6 rules:
+
+Controls are initcap.
+Controles should be alligned word /object.
+Controls are visible.
+Control should not be overlape.
+
+OK Cancle Existance.
+System Menu Existance.
+
+Defects
+
+Color 
+Font
+Size
+Error Message
+Date Format
+
+Label Name
+Town/City
+
+Please Enter a Town/City.
+------------------------------------------------------------------------------------------------------------------------
+
+We need the delivery
+
+------------------------------------------------------------------------------------------------------------------------
+
+Manual support test-
+Context sensitiveness of user manual
+EX- Regular expression:- Some time some objects having same logical name and same physical description.In that case we 
+use regular expression
+
+Start [S] [T]
+Stop  [S] [T] [A-Z]*
+-------------------------------------------------------------------------------------------------------------------------

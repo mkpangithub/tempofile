@@ -1,0 +1,31 @@
+External review
+======================================================================================================================================
+Inspection/Walk through
+
+======================================================================================================================================
+
+MOM
+
+Please find 08 oct 2012 (Monday) training on 'microstrategy' MOM.
+
+Date : 8 oct 2012
+Place : TBD Orpheum
+Chairpersion - Kristina Marcuse,Biraj Patil
+Start Time : 9 A.M (EST)
+END Time :- 4.30 A.M (EST)
+Subject :- SIT Test Case Inspection
+URL:- 
+
+Agenda:- SIT Test Case External review
+
+Discussion :
+Activate / unlock uid - Retail user
+
+Attendees: Sivangi patil,Sameer patil, Neha Patil,Manisha Patil,Shewaaz Khan,Mehbool pail.
+
+Tomarrow Plan : Activate / Unlock uid - Corporate user user
+
+1.All test Scenario have been analyzed by Michel owen along with off shore SIT team member 
+Modification area:
+2.1 In city drop down 'New york' should be included.
+2.2 Account text box should allow - ve SIGN.
